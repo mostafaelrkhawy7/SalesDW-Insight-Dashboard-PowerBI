@@ -145,5 +145,8 @@ These measures allow both high-level monitoring and deep profitability insights.
 
 ---
 
-## ✍️ Author
-**Mostafa Elrkhawy**
+## 👨‍💻 Author
+**Mostafa ElRkhawy**  
+_Data Analyst | Python | Power BI | SQL | Excel_
+
+📧 **Contact:** [LinkedIn Profile](https://www.linkedin.com/in/mostafa-elrkhawy) | [Gmail](mailto:mostafaelrkhawy7@gmail.com)
